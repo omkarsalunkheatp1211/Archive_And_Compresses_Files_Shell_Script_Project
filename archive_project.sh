@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-BASE="/home/devops/myscripts/projects/new"
+BASE="/Path"
 DAYS=10
 DEPTH=1
 RUN=0
